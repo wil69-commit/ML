@@ -4,6 +4,6 @@ streamlit
 matplotlib
 seaborn 
 pandas 
-streamlit_option menu
+streamlit_option_menu
 Joblib 
 sckit-learn
