@@ -1,6 +1,9 @@
-streamlit==1.33.0
-pandas==2.2.3
-numpy==2.2.0
-scikit-learn==1.4.2
-joblib==1.3.2
-rich==13.7.1
+altair 
+pandas
+streamlit
+matplotlib
+seaborn 
+pandas 
+streamlit_option menu
+Joblib 
+sckit-learn
